@@ -1,5 +1,5 @@
 rootProject.name = "wswi"
-include("domain")
-include("application")
-include("infrastructure")
-include("presentation")
+include("wswi-domain")
+include("wswi-application")
+include("wswi-infrastructure")
+include("wswi-presentation")
